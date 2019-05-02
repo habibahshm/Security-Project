@@ -10,3 +10,6 @@ To run the project, do the following:
 7) Write a message in the text area then press send.
 8) To send to all users, write in the text area and then press the "Send to all" button.
 9) To close a user, close the app window of that user from the (x) top left.
+
+
+Video link: https://drive.google.com/file/d/1cUPZXmDRZbRsTt14ZpXkTd3FsQlOFe28/view?fbclid=IwAR3dmHmTGxypu4K4nF2QTaZ4RZgPjtwKcxWZgfMa2SOZsra4envwj1xi0bk
