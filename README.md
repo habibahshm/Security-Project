@@ -1,5 +1,9 @@
 # Security-Project
 
+## Introduction
+This is an implementation of a secure chat application with end-to-end encription in Java.
+
+## Setup
 To run the project, do the following:
 1) Open the project in eclipse.
 2) Run the server.java
